@@ -1,1 +1,2 @@
-# Jupyter
+Young&&Yandex 
+ML workshop homeworks
